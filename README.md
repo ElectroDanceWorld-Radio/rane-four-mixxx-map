@@ -42,7 +42,7 @@ These values were reverse engineered given the refusal of the manufacturer Rane 
 
 ## Thanks to people who have collaborated in it:
 * @vochor
-* Juan Sanchez
+* @bathanusing
 * @Andreina14-hub
   
 # rane-four-mixxx-map
