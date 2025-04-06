@@ -89,5 +89,5 @@ Estos valores fueron sacados por ingenieria inversa dada la negativa por parte d
 
 ## Agradecimiento a personas que han colaborado en ello:
 * @vochor
-* Juan Sanchez
+* @bathanusing
 * @Andreina14-hub
